@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Welcome to Andrew's Portfolio page
+name: Andrew Chong
 description: This is mainly a page to showcase and collate all my projects
+markdown: kramdown
