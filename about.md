@@ -23,4 +23,4 @@ Hi my name is Andrew and this is my blogfolio site!
 
 I'm a Computer Science & Game Design Production Student from DigiPen Singapore who is currently looking for a production related position in the Game Industry!
 
-This website contains all of my notable projects, CVs and a personal blog.
+This website contains all of my notable [projects](projects.md), [CVs](CV.md) and a personal [blog](index.md).
