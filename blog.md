@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+layout: blog
+title: Blog
+permalink: /blog/
 ---
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
@@ -19,8 +19,4 @@ You can find the source code for Jekyll at GitHub:
 
 ![image](/assets/nani.png)-->
 
-Hi my name is Andrew and this is my blogfolio site!
-
-I'm a Computer Science & Game Design Production Student from DigiPen Singapore who is currently looking for a production related position in the Game Industry!
-
-This website contains all of my notable [projects](projects.md), [CVs](CV.md) and a personal [blog](index.md).
+This is my personal blogging area, any posts or opinions expressed here are purely my own.
