@@ -5,6 +5,9 @@ My GitHub Pages repository, that is being used as a personal site which houses m
 Currently a Work-In-Progress.
 
 <!--
+
+note to self: build locally with `bundle exec jekyll serve`
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/acjh13/com.acjh13.www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

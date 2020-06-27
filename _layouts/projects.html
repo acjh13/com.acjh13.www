@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!--
+  PROJECTS
+  Description
+
+  // Loop for all projects in the _projects folder
+  [see project layout below]
+-->
+
+<!-- 
+  Individual Project layout should be as follows
+  1. Video/Image of project (if any)
+  2. Title of project
+  3. Achievements (if any)
+  4. Roles in projects
+  5. project duration/timeframe
+  6. Framework/Engine used
+  7. Solo/Team
+  8. Project & Role description
+  9. List of personal responsibilities in project
+-->
+
+<article class="projects">
+
+  <header class="projects-header">
+    <h1 class="projects-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="projects-content">
+    {{ content }}
+
+    {% assign projects = site.projects %}
+  </div>
+
+</article>

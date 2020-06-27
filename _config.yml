@@ -36,6 +36,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# using another default skin
+minima:
+  skin: dark
+
+# allows me to list pages I want on the navbar
+header_pages:
+  - projects.md
+  - CV.md
+  - blog.md
+
 # Defaults
 defaults:
   -
@@ -45,6 +55,8 @@ defaults:
     values:
       layout: "post"
       title: " [Title]"
+
+include: ['_projects']
 
 # Exclude from processing.
 # The following items will not be processed, by default.

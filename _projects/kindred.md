@@ -1,6 +1,7 @@
 ---
 layout: page
 title : Kindred
+permalink: /Kindred/
 ---
 
-Under Construction
+Under Construction page for kindred
