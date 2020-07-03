@@ -23,4 +23,4 @@ I have a passion for Game Production and am currently looking for a production r
 
 <br/>
 
-This website contains all of my notable [projects](projects.md), [CV](CV.md) and a personal [blog](blog.md).
+This website contains all of my notable [Projects](projects.md), [Résumé](resume.md) and a personal [Blog](blog.md).

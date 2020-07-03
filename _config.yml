@@ -45,7 +45,7 @@ minima:
 # allows me to list pages I want on the navbar
 header_pages:
   - projects.md
-  - CV.md
+  - resume.md
   - blog.md
 
 # Defaults
