@@ -29,7 +29,7 @@ Kindred is a 3D narrative platformer where players relive old memories as Father
 - Scheduled and prioritised tasks for team members.  
 
 <!--Learn more about the details of my responsibilities [here]({% link _projects/kindred.md %})!-->
-<!--Download it [here!](https://games.digipen.edu/games/kindred){:target="_blank"}-->
+Check it out [here!](https://games.digipen.edu/games/kindred){:target="_blank"}
 
 ---
 
@@ -50,7 +50,7 @@ Mega Macho Brothers is a 2D co-op action platformer where players take on the ro
 - Cut and re-prioritised non-essential game mechanics and features to prevent scope creep.
 
 <!--Learn more about my responsibilities [here]({% link _projects/mmb.md %})!-->
-Download it [here!](https://games.digipen.edu/games/mega-macho-bros){:target="_blank"}
+Check it out [here!](https://games.digipen.edu/games/mega-macho-bros){:target="_blank"}
 
 ---
 
@@ -64,10 +64,10 @@ Unity
 Team Size: Solo  
 
 Go Home! is a game developed for Ludum Dare 46 - Theme: "Keep It Alive".  
-It was developed over 1 weekend as part of the Ludum Dare 46 game jam.  
+It was developed over 1 weekend as part of the Ludum Dare game jam.  
 
 Players take the role of a guy who's had too much of people breaking the pandemic lock-down and spreading the infection.  
 Get them to stay home the only way you know how.  
 By yelling in their faces until their comply!
 
-Download it [here!](https://acjh13.itch.io/go-home){:target="_blank"}
+Check it out [here!](https://acjh13.itch.io/go-home){:target="_blank"}
