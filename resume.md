@@ -4,13 +4,13 @@ title: Résumé
 permalink: /resume/
 ---
 
-Please click [here]({% link assets/AndrewChong_Resume.pdf %}) to download a PDF version.
+Click [here]({% link assets/AndrewChong_Resume.pdf %}) for a PDF version.
 
 ---
 
 ## **Summary**
 
-Multi-disciplined Producer with experience developing, designing and managing interactive projects in stressful environments. Passionate about facilitating and coordinating projects where my teams can function smoothly and perform at their best.
+Multi-discipline Project Manager with experience developing, designing and managing interactive projects in stressful environments. Passionate about facilitating and coordinating projects where my teams can function smoothly and perform at their best.
 
 ---
 
@@ -44,7 +44,7 @@ Assisted production lecturer with various responsibilities:
 
 ### Intern - Connectbit Pte Ltd
 March 2014 - April 2014
-Worked on and intergrated CRM software into company workflow.
+Worked on and intergrated CRM software into company workflow
 
 ---
 
@@ -55,7 +55,7 @@ Worked on and intergrated CRM software into company workflow.
 Producer / Editor Programmer / Gameplay & Cinematics Designer  
 • Developed in a Custom Game Engine (C++ / C#)  
 • Managed a team of 11 students, consisting of 3 artists, 6 programmers and 2 designers  
-• Adopted Agile management methodology, weekly Scrum meetings and Kanban task boards  
+• Adopted *Agile* management methodology, weekly *Scrum* meetings and *Kanban* task boards  
 • Set up workflows and pipelines between each department for better communication  
 • Implemented all major editor features including an Undo/Redo system (C++)  
 • Designed and implemented a narrative system for in-game dialogue and cutscenes (C#)  
